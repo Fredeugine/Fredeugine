@@ -1,16 +1,20 @@
-### Hi there 👋
+# Full Stack React Developer
 
-<!--
-**Fredeugine/Fredeugine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced full stack React developer with a passion for crafting remarkable digital experiences.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+![Git](https://img.shields.io/badge/-Git-orange)
+![PHP](https://img.shields.io/badge/-PHP-purple)
+![Python](https://img.shields.io/badge/-Python-blue)
+![JSON](https://img.shields.io/badge/-JSON-yellow)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+Experienced full stack React developer with a passion for crafting remarkable digital experiences. Skilled in JavaScript, Node.js, TypeScript, SQL, MongoDB, Git, and Figma. Thrives on innovation and staying updated with the latest technologies. Delivers high-quality, user-friendly websites from concept to deployment. Finds solace and inspiration in classical piano music. Brings humor and a positive approach to work.
+
+Let's connect and collaborate on exciting projects to create exceptional digital experiences.
