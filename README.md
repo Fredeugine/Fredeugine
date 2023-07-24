@@ -5,7 +5,7 @@ Experienced full stack React developer with a passion for crafting remarkable di
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-!React(https://img.shields.io/badge/-React-blue)
+![React](https://img.shields.io/badge/-React-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey)
