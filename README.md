@@ -8,7 +8,6 @@ Experienced full stack React developer with a passion for crafting remarkable di
 ![React](https://img.shields.io/badge/-React-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 ![Git](https://img.shields.io/badge/-Git-orange)
 ![PHP](https://img.shields.io/badge/-PHP-purple)
