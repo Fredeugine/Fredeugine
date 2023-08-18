@@ -1,6 +1,6 @@
 # Full Stack React Developer
 
-Experienced full stack React developer with a passion for crafting remarkable digital experiences.
+Juniour full stack/Front-end React developer with a passion for crafting remarkable digital experiences.
 
 ## Tech Stack
 
