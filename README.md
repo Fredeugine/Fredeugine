@@ -8,9 +8,8 @@ Juniour full stack/Front-end React developer with a passion for crafting remarka
 ![React](https://img.shields.io/badge/-React-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-![MySQL](https://img.shields.io/badge/-MySQL-blue)
+![SQL](https://img.shields.io/badge/-MySQL-blue)
 ![Git](https://img.shields.io/badge/-Git-orange)
-![PHP](https://img.shields.io/badge/-PHP-purple)
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
