@@ -1,4 +1,4 @@
-# Full Stack React Developer
+#  React Developer/ Junior Full Stack/ Front-end
 
 Juniour full stack/Front-end React developer with a passion for crafting remarkable digital experiences.
 
