@@ -15,4 +15,3 @@ Juniour software engineer
 
 I love to code, solve problems by doing that , and also create something cool. Come lets code together
 
-Let's connect and collaborate on exciting projects to create exceptional digital experiences.
