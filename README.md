@@ -11,5 +11,5 @@
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-I love to code, solve problems by doing that , and also create something cool. Come lets code together
+I love to code, solve problems by doing that , and also create somethings cool. Come lets code together
 
