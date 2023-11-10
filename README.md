@@ -1,6 +1,4 @@
-#  Software Engineer
-
-Juniour software engineer
+#  Junior Develoer
 
 ## Tech Stack
 
