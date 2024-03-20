@@ -1,4 +1,4 @@
-#  Junior Develoer
+#  Fullstack Web Developer
 
 ## Tech Stack
 
